@@ -1,0 +1,1 @@
+worker python Gemini_Bot_Termux.py
